@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "../pappa-logo.svg"
+ },
+ "source_md5": "b9e6ea3416a39fcda9d6da5f07b8b8ec",
+ "version": "e11c7c34",
+ "tile": "#F1EDE6",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "716d2e0084f1f9e8f2cb5c81176d1253"
+ ],
+ "made": "2026-10-08"
+}
